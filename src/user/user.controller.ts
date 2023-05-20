@@ -8,7 +8,7 @@ import { UserListDTO } from './DTO/ReadList.dto'
 
 @Controller('users') // The route name
 export class UserController {
-  constructor(private UserRepository: UserRepository) { } // Class object initialiser. Constructor method replaces the consctructor function
+  constructor(private UserRepository: UserRepository) { } // Class object initialiser. Constructor method replaces the constructor function
 
   @Post() // HTTP Method
   // Down below we'll perform an action about the route.
