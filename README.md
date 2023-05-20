@@ -2,7 +2,7 @@
 
 ## Descrição
 >
-> Este mini repositório foi publicado com propósitos para fundamentação e concepção de novas API RESTful tendo como ferramenta principal o popular framework Nest.js.
+> Este mini repositório foi publicado com propósitos para fundamentação e concepção de novas API RESTful tendo como ferramenta principal o popular framework Nest.js
 
 ## Padrões de projeto
 
